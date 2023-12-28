@@ -1,0 +1,2 @@
+archivo dos de prueba para git
+se agrega linea para ver modificación

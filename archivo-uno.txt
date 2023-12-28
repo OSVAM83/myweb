@@ -1,0 +1,2 @@
+Archivo uno txt para git
+se agrega comentario para modificar
